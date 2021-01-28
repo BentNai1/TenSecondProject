@@ -1,0 +1,469 @@
+fileFormatVersion: 2
+guid: 822c63f967f7a1b46a6aee704049dcbd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5929462597335884119
+    second: Open Dark
+  - first:
+      213: -3132214807832081292
+    second: Open Light
+  - first:
+      213: 3314675692581697439
+    second: Closed Dark
+  - first:
+      213: 5032302160141773129
+    second: Closed Light
+  - first:
+      213: 3670075581587707438
+    second: Blue
+  - first:
+      213: -6945538736331355323
+    second: Blue Cut
+  - first:
+      213: -7580423499121270254
+    second: Yellow
+  - first:
+      213: -5476523825294510953
+    second: Yellow Cut
+  - first:
+      213: 2831468860190369493
+    second: Orange
+  - first:
+      213: -1580241991939675837
+    second: Orange Cut
+  - first:
+      213: -2146484723459935726
+    second: Bomb Defuse Spritesheet_10
+  - first:
+      213: 6348296164790906184
+    second: Bomb Defuse Spritesheet_11
+  - first:
+      213: 1575716902932106036
+    second: Bomb Defuse Spritesheet_12
+  - first:
+      213: -2735438580488033239
+    second: Bomb Defuse Spritesheet_13
+  - first:
+      213: 8013362164365259085
+    second: Bomb Defuse Spritesheet_14
+  - first:
+      213: -3095619105847136168
+    second: Bomb Defuse Spritesheet_15
+  - first:
+      213: -8530302961850326316
+    second: Bomb Defuse Spritesheet_16
+  - first:
+      213: 6640409006345881337
+    second: Bomb Defuse Spritesheet_17
+  - first:
+      213: 1804733044126990884
+    second: Bomb Defuse Spritesheet_18
+  - first:
+      213: -3254127138840978856
+    second: Bomb Defuse Spritesheet_19
+  - first:
+      213: 6548750388818991731
+    second: Bomb Defuse Spritesheet_20
+  - first:
+      213: 1851522612088235113
+    second: Bomb Defuse Spritesheet_21
+  - first:
+      213: -5545369793618547675
+    second: Bomb Defuse Spritesheet_22
+  - first:
+      213: 5296266436544261249
+    second: Bomb Defuse Spritesheet_23
+  - first:
+      213: -2068978530843882031
+    second: Bomb Defuse Spritesheet_24
+  - first:
+      213: -4086830666428998085
+    second: Bomb Defuse Spritesheet_25
+  - first:
+      213: -7718939280459947878
+    second: Bomb Defuse Spritesheet_26
+  - first:
+      213: -1315633151580925488
+    second: Bomb Defuse Spritesheet_27
+  - first:
+      213: -2415413890897029821
+    second: Bomb Defuse Spritesheet_28
+  - first:
+      213: 6417234282564116128
+    second: Bomb Defuse Spritesheet_29
+  - first:
+      213: 1941553689909667186
+    second: Bomb Defuse Spritesheet_30
+  - first:
+      213: 8672946080865885093
+    second: Bomb Defuse Spritesheet_31
+  - first:
+      213: -5417788333540230524
+    second: Bomb Defuse Spritesheet_32
+  - first:
+      213: -1062575735317898501
+    second: Bomb Defuse Spritesheet_33
+  - first:
+      213: -4505793747035879675
+    second: Bomb Defuse Spritesheet_34
+  - first:
+      213: -5485147456213895014
+    second: Bomb Defuse Spritesheet_35
+  - first:
+      213: 3505478208994511866
+    second: Bomb Defuse Spritesheet_36
+  - first:
+      213: -1303774384396030809
+    second: Bomb Defuse Spritesheet_37
+  - first:
+      213: -5480007439003695411
+    second: Bomb Defuse Spritesheet_38
+  - first:
+      213: 7604728780486192965
+    second: Bomb Defuse Spritesheet_39
+  - first:
+      213: -3726671264718762619
+    second: Bomb Defuse Spritesheet_40
+  - first:
+      213: -8746217738323481612
+    second: Bomb Defuse Spritesheet_41
+  - first:
+      213: 6705387949477082611
+    second: Bomb Defuse Spritesheet_42
+  - first:
+      213: 8734074011522836922
+    second: Bomb Defuse Spritesheet_43
+  - first:
+      213: -5342969374491525268
+    second: Bomb Defuse Spritesheet_44
+  - first:
+      213: -5863199845827592658
+    second: Bomb Defuse Spritesheet_45
+  - first:
+      213: 5025693482264527675
+    second: Bomb Defuse Spritesheet_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Open Dark
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae54d0fe2156bda0800000000000000
+      internalID: -5929462597335884119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Open Light
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c43fa3a332884d0800000000000000
+      internalID: -3132214807832081292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closed Dark
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9734f10bf7100e20800000000000000
+      internalID: 3314675692581697439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closed Light
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9496ea1072456d540800000000000000
+      internalID: 5032302160141773129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26de5beb4abee230800000000000000
+      internalID: 3670075581587707438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Cut
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b014f715d7c9f90800000000000000
+      internalID: -6945538736331355323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2126ad78dfcecc690800000000000000
+      internalID: -7580423499121270254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Cut
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7947b55c89a7ff3b0800000000000000
+      internalID: -5476523825294510953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d62a343de56b4720800000000000000
+      internalID: 2831468860190369493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Cut
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349a743e74ad11ae0800000000000000
+      internalID: -1580241991939675837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
