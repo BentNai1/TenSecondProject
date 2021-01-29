@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class BombClickCheck : MonoBehaviour
 {
+    
     //public ScriptableObject = 
     // Start is called before the first frame update
     void Start()
@@ -22,8 +23,9 @@ public class BombClickCheck : MonoBehaviour
         //bombScript.ChangeAnimOpen();
         if(BombSpriteChange.gameBegin == true && BombSpriteChange.caseOpen == false)
         {
+            
             BombSpriteChange.caseOpen = true;
-            Destroy(gameObject, 1);
+            Destroy(gameObject);
         }
         
     }

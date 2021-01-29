@@ -2,15 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ExplosionController : MonoBehaviour
+public class BeepingController : MonoBehaviour
 {
     public AudioSource audioSource;
-    public SpriteRenderer spriteRenderer;
-
-    public static bool explosionSound = false;
-
-    private bool explosionOn = false;
-
     // Start is called before the first frame update
     void Start()
     {
@@ -20,11 +14,9 @@ public class ExplosionController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (explosionSound == true && explosionOn == false)
+        if(BombSpriteChange.gameWin == true)
         {
-            explosionOn = true;
-            audioSource.Play();
-            spriteRenderer.enabled = true;
+            audioSource.Stop();
         }
     }
 }

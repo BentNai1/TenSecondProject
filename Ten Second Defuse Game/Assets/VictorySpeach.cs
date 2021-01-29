@@ -2,14 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ExplosionController : MonoBehaviour
+public class VictorySpeach : MonoBehaviour
 {
     public AudioSource audioSource;
-    public SpriteRenderer spriteRenderer;
+    
 
-    public static bool explosionSound = false;
-
-    private bool explosionOn = false;
+    private bool speachOn = false;
 
     // Start is called before the first frame update
     void Start()
@@ -20,11 +18,10 @@ public class ExplosionController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (explosionSound == true && explosionOn == false)
+        if (BombSpriteChange.gameWin == true && speachOn == false)
         {
-            explosionOn = true;
             audioSource.Play();
-            spriteRenderer.enabled = true;
+            speachOn = true;
         }
     }
 }
