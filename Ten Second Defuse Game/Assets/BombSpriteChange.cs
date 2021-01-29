@@ -7,6 +7,8 @@ public class BombSpriteChange : MonoBehaviour
     Animator anim;
     public static bool caseOpen = false;
     public static bool gameBegin = false;
+    public static bool gameLoss = false;
+    public static bool gameWin = false;
     // Start is called before the first frame update
     void Start()
     {
@@ -22,6 +24,18 @@ public class BombSpriteChange : MonoBehaviour
             {
                 ChangeAnimOpen();
             }
+
+        if (gameLoss == true)
+        {
+            ExplosionController.explosionSound = true;
+            
+            Destroy(gameObject);
+        }
+
+        if (gameWin == true)
+        {
+            anim.enabled = false;
+        }
     }
 
     public void ChangeAnimOpen()

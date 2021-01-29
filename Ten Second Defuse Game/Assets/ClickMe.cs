@@ -7,6 +7,7 @@ public class ClickMe : MonoBehaviour
     public SpriteRenderer spriteRenderer;
     public BoxCollider2D boxCollider2D;
     public Sprite cutWireSprite;
+    public bool isGameWinWire;
     // Start is called before the first frame update
     void Start()
     {
@@ -28,6 +29,11 @@ public class ClickMe : MonoBehaviour
         if(BombSpriteChange.gameBegin == true)
         {
             spriteRenderer.sprite = cutWireSprite;
+        }
+
+        if(isGameWinWire == true)
+        {
+            BombSpriteChange.gameWin = true;
         }
         
     }

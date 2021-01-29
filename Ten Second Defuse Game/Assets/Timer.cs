@@ -17,12 +17,21 @@ public class Timer : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        timer += Time.deltaTime;
-        timerText.text = "Timer: " + Mathf.Clamp(12f - Mathf.Round(timer * 100f) / 100f, 0f, 10f);
+        if (BombSpriteChange.gameWin == false)
+        {
+            timer += Time.deltaTime;
+            timerText.text = "Timer: " + Mathf.Clamp(12f - Mathf.Round(timer * 100f) / 100f, 0f, 10f);
+        }
+        
 
         if (timer >= 2f && BombSpriteChange.gameBegin == false)
         {
             BombSpriteChange.gameBegin = true;
+        }
+
+        if (timer >= 13f && BombSpriteChange.gameLoss == false)
+        {
+            BombSpriteChange.gameLoss = true;
         }
     }
 }
