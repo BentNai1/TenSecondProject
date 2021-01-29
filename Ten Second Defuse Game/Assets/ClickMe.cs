@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BombClickCheck : MonoBehaviour
+public class ClickMe : MonoBehaviour
 {
-    //public ScriptableObject = 
+    public SpriteRenderer spriteRenderer;
+    public Sprite cutWireSprite;
     // Start is called before the first frame update
     void Start()
     {
@@ -19,13 +20,10 @@ public class BombClickCheck : MonoBehaviour
 
     private void OnMouseDown()
     {
-        //bombScript.ChangeAnimOpen();
-        if(BombSpriteChange.gameBegin == true && BombSpriteChange.caseOpen == false)
+        if(BombSpriteChange.gameBegin == true)
         {
-            BombSpriteChange.caseOpen = true;
-            Destroy(gameObject, 1);
+            spriteRenderer.sprite = cutWireSprite;
         }
         
     }
-
 }
